@@ -1,1 +1,1 @@
-let a;
+let buffer = 0;
